@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Face data
+dataset/
+faces/
+
+# Trained face model
+face_model.yml
+names.txt
+
+# IDE
+.vscode/
+.idea/
